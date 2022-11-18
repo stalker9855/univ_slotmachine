@@ -20,8 +20,8 @@ img{
     border: solid 5px #ff9e64;
     box-shadow: 0px 0px 5px #ff9e64;
     border-radius: 10px;
-    width: 200px;
-    height: 200px;
+    width: 190px;
+    height: 190px;
 }
 #btn{
     font-family: monospace;
@@ -49,8 +49,8 @@ img{
     border: solid 5px #f7768e;
     box-shadow: 0px 0px 5px #f7768e;
     border-radius: 10px;
-    width: 900px;
-    height: 900px;
+    width: 850px;
+    height: 850px;
 }
 .row-container{
     padding: 10px;
