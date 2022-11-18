@@ -69,8 +69,21 @@ img{
 }
 @media screen and (max-width: 1400px), screen and (max-height: 900px) {
     .container{
-        height: 800px;
-        width: 800px;
+        height: 770px;
+        width: 770px;
+    }
+    p{
+        font-size: 28px;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+    }
+}
+@media screen and (max-width: 1200px), screen and (max-height: 800px) {
+    .container{
+        height: 720px;
+        width: 720px;
     }
     p{
         font-size: 28px;
